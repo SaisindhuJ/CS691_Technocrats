@@ -1,0 +1,8 @@
+
+To register user Name 
+$ git config --global user.name "your's github username"
+
+To register user email
+$ git config --global user.email "your's github email"
+
+
